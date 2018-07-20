@@ -1,7 +1,6 @@
-# bydrec.com
-### Refactoring of Angular Vehicles App
+# Webpack II Setup
 
-- version: 1.0.0
+- version: 1.2.0
 
 **Requirements:**
 [Node, WebPack]
