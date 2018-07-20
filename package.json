@@ -1,7 +1,7 @@
 {
-  "name": "vehicles-example",
-  "version": "1.0.0",
-  "description": "Refactoring of Angular Vehicles App",
+  "name": "webpack-ii-setup",
+  "version": "1.2.0",
+  "description": "Webpack II Setup",
   "main": "index.ejs",
   "scripts": {
     "build": "rimraf build && webpack",
