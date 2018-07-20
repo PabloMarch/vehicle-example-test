@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:PabloMarch/vehicle-example-test.git"
+    "url": "git@github.com:PabloMarch/webpack2-es6-config.git"
   },
   "keywords": [
     "javascript",
@@ -21,7 +21,6 @@
   ],
   "author": "Pablo Marchena",
   "license": "ISC",
-  "homepage": "https://bydrec.com",
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
     "react": "^16.4.1",
